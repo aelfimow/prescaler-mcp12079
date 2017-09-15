@@ -7,6 +7,5 @@
 ## Top view (1)
 ![Top view 1](images/a.jpg)
 
-
-## Top view (1)
+## Top view (2)
 ![Top view 2](images/b.jpg)
